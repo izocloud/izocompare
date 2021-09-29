@@ -2,9 +2,9 @@
 
 Built with React, `izocompare` is a micro web app used to play up to 3 audio files with one synchronized playhead. Designed to be used inside an iframe, `izocompare` is designed to be fully responsive and resizable, but optimized around 300-500px window width.
 
-|                 Dark Theme                 |                 Light Theme                  |
-| :----------------------------------------: | :------------------------------------------: |
-| ![Preview - Dark Theme](/preview_dark.png) | ![Preview - Light Theme](/preview_light.png) |
+|                 Dark Theme                 |                 Light Theme                  |                 Video                  |
+| :----------------------------------------: | :------------------------------------------: | :------------------------------------: |
+| ![Preview - Dark Theme](/preview_dark.png) | ![Preview - Light Theme](/preview_light.png) | ![Preview - Video](/preview_video.gif) |
 
 ## Available Paramaters
 
