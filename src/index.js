@@ -11,7 +11,8 @@ function IzoCompare() {
   const theme = searchParams.get('theme') || 'light'
   const label1 = searchParams.get('label1') || 'Original'
   const label2 =
-    searchParams.get('label2') || searchParams.get('src3') ? 'RX8' : 'Processed'
+    searchParams.get('label2') ||
+    (searchParams.get('src3') ? 'RX8' : 'Processed')
   const label3 = searchParams.get('label3') || 'RX9'
   const [src1] = useState(searchParams.get('src1'))
   const [canPlay1, setCanPlay1] = useState(false)
